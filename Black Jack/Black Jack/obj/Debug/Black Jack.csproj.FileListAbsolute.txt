@@ -1,0 +1,10 @@
+D:\Мои работы\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.exe.config
+D:\Мои работы\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.exe
+D:\Мои работы\Black Jack\Black Jack\Black Jack\bin\Debug\Black Jack.pdb
+D:\Мои работы\Black Jack\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.AssemblyReference.cache
+D:\Мои работы\Black Jack\Black Jack\Black Jack\obj\Debug\Black_Jack.Properties.Resources.resources
+D:\Мои работы\Black Jack\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.GenerateResource.cache
+D:\Мои работы\Black Jack\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.CoreCompileInputs.cache
+D:\Мои работы\Black Jack\Black Jack\Black Jack\obj\Debug\Black Jack.exe
+D:\Мои работы\Black Jack\Black Jack\Black Jack\obj\Debug\Black Jack.pdb
+D:\Мои работы\Black Jack\Black Jack\Black Jack\obj\Debug\Black_Jack.Form1.resources
